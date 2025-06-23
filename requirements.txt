@@ -1,0 +1,10 @@
+flask
+aiohttp
+discord
+random
+string
+pyyaml
+asyncio
+time
+os
+lock
